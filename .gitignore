@@ -1,0 +1,8 @@
+# Ignoramos los .class
+
+*.class
+
+# ignoramos la carpeta doc
+
+*./doc/
+/doc/
